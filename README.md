@@ -21,6 +21,7 @@ kafka-storage.bat format \
 
 ```cmd
 kafka-server-start.bat ../../multi-node-broker/server1.properties
+
 ```
 
 ```cmd
@@ -28,6 +29,6 @@ kafka-server-start.bat ../../multi-node-broker/server2.properties
 ```
 
 
-``cmd
+```cmd
 kafka-server-start.bat ../../multi-node-broker/server3.properties
 ```
